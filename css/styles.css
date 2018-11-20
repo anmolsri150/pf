@@ -4,7 +4,7 @@
 Project:  Cards - Personal vCard, Resume/CV & Portfolio
 Author: Diego Pereira @ DotRex
 Version:  1.1
-Last change:  30/09/15 
+Last change:  30/09/15
 Primary use:  Vcard / Personal / CV / Resume / Portfolio
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
@@ -66,7 +66,7 @@ Primary use:  Vcard / Personal / CV / Resume / Portfolio
   padding-bottom: 20px;
 }
 /* ==========================================================
-! 02. GENERAL 
+! 02. GENERAL
 ========================================================== */
 body {
   font-family: 'Montserrat', sans-serif;
@@ -227,7 +227,7 @@ iframe {
   color: #fafafa;
   opacity: 0.9;
   text-align: center;
-  font-size: 32px;
+  font-size: 28px;
   letter-spacing: -2px;
   padding-left: 2px;
   padding-right: 2px;
@@ -623,7 +623,7 @@ iframe {
   text-align: center;
   font-weight: bold;
   margin-top: 0;
-  font-size: 36px;
+  font-size: 28px;
   letter-spacing: -2px;
   margin-bottom: 8px;
   color: #021533;
